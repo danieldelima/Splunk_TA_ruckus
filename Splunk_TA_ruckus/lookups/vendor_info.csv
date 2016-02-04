@@ -1,0 +1,4 @@
+sourcetype,vendor,product,ids_type,vendor_product
+ruckus:core,Ruckus Wireless,Wireless Access Point,,Ruckus Wireless Controller
+ruckus:sshd,Ruckus Wireless,Firewall,,Ruckus Wireless Controller
+ruckus:kernel,Ruckus Wireless,Firewall,network,Ruckus Wireless Controller
